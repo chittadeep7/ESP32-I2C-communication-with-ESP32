@@ -1,4 +1,4 @@
-*****Simple MPU6050 driver for ESP32 that you can use in your project to read accelerometer, temperature and gyroscope values. ******
+Simple MPU6050 driver for ESP32 that you can use in your project to read accelerometer, temperature and gyroscope values.
 
 =>The MPU_read() function reads all the data inside the buffer.
     =>inside the task function conversion is done and data is printed out.
@@ -12,6 +12,6 @@
 │   ├── CMakeLists.txt
 │   └── mpu6050.c
 |   |__ mpu6060.h
-└── README.md                  This is the file you are currently reading
+└── README.md               
 ```
 
